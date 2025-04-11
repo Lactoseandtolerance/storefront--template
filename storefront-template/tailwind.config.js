@@ -5,6 +5,9 @@ export default {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
+    fontFamily: {
+      sans: ["ui-sans-serif", "system-ui", "Arial", "sans-serif"],
+    },
     extend: {
       colors: {
         primary: {
@@ -20,9 +23,6 @@ export default {
           900: '#0c4a6e',
           950: '#082f49',
         },
-      },
-      fontFamily: {
-        sans: ["ui-sans-serif", "system-ui", "Arial", "sans-serif"],
       },
     },
   },

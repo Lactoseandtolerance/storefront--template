@@ -3,8 +3,9 @@
 @tailwind utilities;
 
 @layer base {
-  html {
-    @apply scroll-smooth;
+  body {
+    font-family: ui-sans-serif, system-ui, Arial, sans-serif;
+    @apply text-gray-800 antialiased;
   }
   
   body {
