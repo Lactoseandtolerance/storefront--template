@@ -57,7 +57,7 @@ const Services = () => {
     },
     {
       title: 'SEO Optimization',
-      description: 'Improve your visibility in search engines and drive more qualified traffic to your website. Our SEO services help your business get found by potential customers when they're searching for the products or services you offer.',
+      description: 'Improve your visibility in search engines and drive more qualified traffic to your website. Our SEO services help your business get found by potential customers when they\'re searching for the products or services you offer.',
       icon: '📈',
       features: [
         'Keyword research and analysis',
